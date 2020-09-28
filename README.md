@@ -7,7 +7,8 @@
   <img align="left" alt="Emilly's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/twitter.svg" />
 </a>
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
+<img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
+<br>
 
 <br> My name is Emilly(she/her). I'm pursuing a Bachelor's degree in Computer Science. 
 <br> 🔭 Currently learning about data science, frontend and how to play among us.
