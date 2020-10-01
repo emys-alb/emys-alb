@@ -21,5 +21,5 @@
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical" height="200px" width="400px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical" height="200px" width="400px" />
+<img src="https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical" height="220px" width="440px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical" height="200px" width="360px" />
