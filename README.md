@@ -22,4 +22,4 @@
 <code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
 
 ![Emys's Stats](https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical" height="220px" width="360px" />
+![Emys's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical)
