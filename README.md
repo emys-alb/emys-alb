@@ -11,7 +11,7 @@
 <br>
 
 <br> My name is Emilly(she/her). I'm pursuing a Bachelor's degree in Computer Science. 
-<br> 🔭 Currently learning about data science, frontend and how to play among us.
+<br> 🔭 Currently learning about data science, frontend and how to win at Hanabi.
 <br> 🌱 I am passionate about contribuing, being part of a community (that's why i'm in so many...) and music.
 <br> ⚡ Recently my projects are kid-related, while I am studying I find something nice to do for them.
 <br> For more info, you can visit my [porftolio](https://emys-alb.github.io/)
