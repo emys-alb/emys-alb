@@ -1,7 +1,7 @@
 # ✨ Once upon a time in a galaxy far far away ✨
 <img align="right" width="470" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 
-Hello there😸 my name is Emilly, my pronouns are: She/Her, i'm pursuing a Bachelor's degree in Computer Science and i'm constantly using emojis to express myself❤️.
+Hello there 😸🥰 my name is Emilly, my pronouns are: She/Her, i'm pursuing a Bachelor's degree in Computer Science and i'm constantly using emojis to express myself.
 
 🔭 Currently learning about Data Science, Back-end, and fighting to learn Angular😫😆.
 
@@ -22,6 +22,6 @@ Hello there😸 my name is Emilly, my pronouns are: She/Her, i'm pursuing a Bach
 
 ## GitHub Stats for those who love stats
 <div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical">
 </div>
