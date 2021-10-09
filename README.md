@@ -1,18 +1,27 @@
-### Hi there 🌈
+# ✨ Once upon a time in a galaxy far far away ✨
+<img align="right" width="470" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 
-<img align="right" width="470px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
+Hello there😸 my name is Emilly, my pronouns are: She/Her, i'm pursuing a Bachelor's degree in Computer Science and i'm constantly using emojis to express myself❤️.
 
-My name is Emilly(she/her). I'm pursuing a Bachelor's degree in Computer Science. 
-<br> 🔭 Currently learning about data science and backend, but looking for new challenges at any area.
-<br> 🌱 I am passionate about contribuing, being part of a community (that's why i'm in so many...) and music.
-<br> For more info, you can visit my [porftolio](https://emys-alb.github.io/)
+🔭 Currently learning about Data Science, Back-end, and fighting to learn Angular😫😆.
 
-**Languages and Tools:**  
-<img alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img alt="r" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+🌱 I am passionate about contribuing, helping others, solving problems, board games and being part of communities (shout out to [OpenDevUFCG](https://opendevufcg.org/), [Elas@Computação](https://elas.computacao.ufcg.edu.br/) and [Guardians](https://github.com/Guardians-DSC))
 
-![Emys's Stats](https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical&hide=issues)
-![Emys's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical)
+💓 About my projects: I try to add some new techs so I can learn and take that to my resumé💻 but the bottom of the line is that it must be something that I really love, so do feel free to colaborate and help improve any project, and I am down to new challenges all the time.
+
+➕ If you want to learn more and you know portuguese, i also have my [porftolio](https://emys-alb.github.io/)😃 See ya 👋
+
+## Languages and Tools:
+<div>
+  <img alt="java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img alt="js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="react" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="r" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+</div>
+
+## GitHub Stats for those who love stats
+<div>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical">
+</div>
