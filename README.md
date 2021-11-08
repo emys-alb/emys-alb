@@ -22,6 +22,6 @@ Hello there 😸🥰 my name is Emilly, my pronouns are: She/Her, i'm pursuing a
 
 ## GitHub Stats for those who love stats
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emys-alb&layout=compact&theme=radical">
 </div>
