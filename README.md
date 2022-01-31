@@ -3,7 +3,7 @@
 
 Hello there 😸🥰 my name is Emilly, my pronouns are: She/Her, i'm pursuing a Bachelor's degree in Computer Science and i'm constantly using emojis to express myself.
 
-🔭 Currently learning about Data Science, Back-end, and fighting to learn Angular😫😆.
+🔭 Currently learning about Data Science and Web Development.
 
 🌱 I am passionate about contribuing, helping others, solving problems, board games and being part of communities (shout out to [OpenDevUFCG](https://opendevufcg.org/), [Elas@Computação](https://elas.computacao.ufcg.edu.br/) and [Guardians](https://github.com/Guardians-DSC))
 
